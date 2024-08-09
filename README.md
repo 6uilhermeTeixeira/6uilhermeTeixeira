@@ -22,14 +22,4 @@ Meu interesse por areas relacionadas a Tecnologia surgiu cedo, por conta de uma 
 
 ## Principais Linguagens
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=6uilhermeTeixeira&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-## Minhas Contribuições
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=6uilhermeTeixeira&repo=RequisitandoDadosAPICriptomoedas&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/6uilhermeTeixeira/RequisitandoDadosAPICriptomoedas)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=6uilhermeTeixeira&repo=formacaoHTMLDesafio2&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/6uilhermeTeixeira/formacaoHTMLDesafio2)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=6uilhermeTeixeira&repo=JogoDaCobrinhaJS&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/6uilhermeTeixeira/JogoDaCobrinhaJS)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=6uilhermeTeixeira&repo=PolygonNFT&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/6uilhermeTeixeira/PolygonNFT)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6uilhermeTeixeira&layout=donut)](https://github.com/6uilhermeTeixeira/github-readme-stats)
