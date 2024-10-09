@@ -2,7 +2,7 @@
 
 ## Guilherme Teixeira Soares
 
-Atualmente estudando JavaScript, Node.Js e Smart Contracts com Solidity 
+Atualmente estudando Flutter, Dart, Microsoft Azure, JavaScript, Node.Js e Smart Contracts com Solidity 
 
 Conclui com sucesso 2 semestres do curso de Analise e Desenvolvimento de Sistemas oferecidos pela Fatec, tendo de interromper por questões de locomoção.
 
