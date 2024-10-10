@@ -2,11 +2,17 @@
 
 ## Guilherme Teixeira Soares
 
-Atualmente estudando Flutter, Dart, Microsoft Azure, JavaScript, Node.Js e Smart Contracts com Solidity 
+Desenvolvedor Junior com experiência principalmente em HTML, CSS, JavaScript, C++, Solidity, VS Code e Git, também atuando de forma autônoma como Produtor Multimídia com portfólio em diversos projetos de áudio e audiovisual.
 
-Conclui com sucesso 2 semestres do curso de Analise e Desenvolvimento de Sistemas oferecidos pela Fatec, tendo de interromper por questões de locomoção.
+Estou em busca de me inserir no mercado de tecnologia como Analista e Desenvolvedor de Sistemas Junior.
 
-Meu interesse por areas relacionadas a Tecnologia surgiu cedo, por conta de uma forte afinidade com matematica e questões de lógica, estou sempre à procura de novos desafios relacionados as áreas da tecnologia.
+Atualmente estudando Flutter, Dart, Microsoft Azure, Node.Js e Smart Contracts com Solidity.
+
+Conclui com sucesso 2 semestres do curso de Analise e Desenvolvimento de Sistemas oferecidos pela Fatec, tendo de interromper por questões de locomoção, de 2022 para cá tirei certificações online em diversas áreas indo desde Segurança da Informação e LGPD até Programação e Desenvolvimento BlockChain.
+
+Meu interesse por áreas relacionadas a Tecnologia surgiu cedo, por conta de uma forte afinidade com matemática, geometria e questões de lógica, o mundo dos números sempre me fascinou e estou sempre à procura de novos desafios relacionados as áreas da tecnologia.
+
+Linkedin: https://www.linkedin.com/in/6uilhermeteixeira/
 
 ## Entre em Contato
 
