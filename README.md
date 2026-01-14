@@ -6,7 +6,7 @@ Desenvolvedor Junior com experiência principalmente em HTML, CSS, JavaScript, C
 
 Estou em busca de me inserir no mercado de tecnologia como Analista e Desenvolvedor de Sistemas Junior.
 
-Atualmente estudando Flutter, Dart, Microsoft Azure, Node.Js e Smart Contracts com Solidity.
+Atualmente estudando Node.Js, Smart Contracts com Solidity e Agentes de IA com N8N.
 
 Conclui com sucesso 2 semestres do curso de Analise e Desenvolvimento de Sistemas oferecidos pela Fatec, tendo de interromper por questões de locomoção, de 2022 para cá tirei certificações online em diversas áreas indo desde Segurança da Informação e LGPD até Programação e Desenvolvimento BlockChain.
 
